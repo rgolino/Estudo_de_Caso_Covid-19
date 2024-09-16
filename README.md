@@ -61,5 +61,5 @@ covid.saude.gov
 
 ### Conheça o projeto completo ###
 
-"Estudo de Caso da Covid-19" 
+[Estudo de Caso da Covid-19](https://github.com/rgolino/Estudo_de_Caso_Covid-19/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
 
